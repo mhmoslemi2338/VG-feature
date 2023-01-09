@@ -19,5 +19,9 @@ plt.subplot(122)
 plt.imshow(VG,'gray'); plt.axis('off'); plt.show()
 ```
 
+![plot](feature.png)
+
+
+
 
 Iacovacci, Jacopo, and Lucas Lacasa. "Visibility graphs for image processing." IEEE transactions on pattern analysis and machine intelligence 42.4 (2019): 974-987.
