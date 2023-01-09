@@ -9,7 +9,7 @@ Usage:
 import cv2
 from Graph_Feature import KKFilter
 
-I=cv2.imread('lena512.png')
+I=cv2.imread('lena.png')
 I=cv2.cvtColor(I,cv2.COLOR_BGR2GRAY)
 VG=KKFilter(I)
 
